@@ -1,4 +1,4 @@
-## Python Message App Using Colorama
+## Python Experimental Public Transport App
 
 ## Description
 This simple Python program demonstrates the use of the Colorama library to colorize text and simulates the operation of a public transportation system at two bus stops.
